@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -691,8 +691,7 @@
   <footer>
     © 2026 TechWorld — Большой сайт про компьютеры и технологии
   </footer>
-    © 2026 TechWorld — Сайт про компьютеры и технологии
-  </footer>
+
 
   <div class="scroll-top" id="scrollTop">↑</div>
 
